@@ -2,7 +2,7 @@
 
 ## TL;DR
 This listens on port 5963 by default and listens for shodan webhooks, then outputs what it receives into a csv file.
-You can also throw shodan alert output at this, but you can just use shodan CLI to convert alert data to a CSV. ¯\\_(ツ)_/¯
+You can also throw shodan alert output at this if you know how to format it, but you can just use shodan CLI to convert alert data to a CSV. ¯\\_(ツ)_/¯
 
 ## Config
 Set which IP to bind to, and what port to listen on in config.ini. 
